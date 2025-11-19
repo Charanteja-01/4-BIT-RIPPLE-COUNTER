@@ -1,5 +1,5 @@
-NAME: R.RAHUL
-REG NO: 212224050034
+NAME: Yedlapalli Charan Teja
+REG NO: 212223040247
 
 
 **AIM:**
@@ -47,9 +47,9 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 
 
- Developed by: RAHUL.R
+ Developed by:Yedlapalli Charan Teja
  
- RegisterNumber:  24901333
+ RegisterNumber:212223040247
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
